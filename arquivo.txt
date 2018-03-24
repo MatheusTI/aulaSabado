@@ -1,0 +1,2 @@
+First Test
+Second test, the objective is check if the version control is working.
